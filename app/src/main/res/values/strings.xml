@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Map Practice LatLng</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="latlng">LatLng</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="add_current_latlng">Add Current LatLng</string>
+    <string name="error_with_saving_lat_lng">Error with saving lat lng</string>
+    <string name="save_latlng">Save LatLng</string>
+    <string name="show_lat_lng">Show Lat Lng</string>
+    <string name="delete">Delete</string>
+    <string name="show_lat_lng_on_map">Show Lat Lng On Map</string>
+</resources>
