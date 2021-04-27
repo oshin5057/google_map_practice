@@ -19,7 +19,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_GOOGLE_MAP_API_KEY"/>
+            android:value="AIzaSyCxFM4UktRGxXuu-dQ-Ff1YG_d_6CCITKo"/>
 
         <activity android:name=".MainActivity">
             <intent-filter>
@@ -43,7 +43,6 @@
 
         <service android:name=".FetchAddressIntentService"
             android:exported="false"/>
-
 
     </application>
 
